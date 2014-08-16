@@ -10,7 +10,7 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <StackPanel Width="300" HorizontalAlignment="Left" Margin="50,50,50,50">
             <TextBlock Text="Hello GitHub" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Foreground="Red" />        
-            <Button FontFamily="Global User Interface">Click me</Button>
+            <Button FontFamily="Garamond">Click me</Button>
         </StackPanel>
     </Grid>
 </Page>
